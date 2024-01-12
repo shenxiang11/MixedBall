@@ -11,6 +11,7 @@
 		476E2D342B5101F30088ED71 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476E2D332B5101F30088ED71 /* ContentView.swift */; };
 		476E2D362B5101F60088ED71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 476E2D352B5101F60088ED71 /* Assets.xcassets */; };
 		476E2D392B5101F60088ED71 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 476E2D382B5101F60088ED71 /* Preview Assets.xcassets */; };
+		476E2D402B5124EA0088ED71 /* CircleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476E2D3F2B5124EA0088ED71 /* CircleData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		476E2D332B5101F30088ED71 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		476E2D352B5101F60088ED71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		476E2D382B5101F60088ED71 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		476E2D3F2B5124EA0088ED71 /* CircleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				476E2D312B5101F30088ED71 /* CanvasApp.swift */,
 				476E2D332B5101F30088ED71 /* ContentView.swift */,
+				476E2D3F2B5124EA0088ED71 /* CircleData.swift */,
 				476E2D352B5101F60088ED71 /* Assets.xcassets */,
 				476E2D372B5101F60088ED71 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				476E2D402B5124EA0088ED71 /* CircleData.swift in Sources */,
 				476E2D342B5101F30088ED71 /* ContentView.swift in Sources */,
 				476E2D322B5101F30088ED71 /* CanvasApp.swift in Sources */,
 			);
